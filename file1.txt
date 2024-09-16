@@ -1,2 +1,8 @@
 Hello 
+<<<<<<< HEAD
 This is Nirant Talware
+=======
+This is Nirant Talware
+Software Developer
+Winjit Technologies
+>>>>>>> feature-branch
